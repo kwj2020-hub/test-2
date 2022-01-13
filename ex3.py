@@ -1,0 +1,8 @@
+var1 = "김우중"   # 문자열(string)
+var2 = 33        # 정수(Integer)
+var3 = 99.9      # 실수(Float)
+var4 = True      # 논리(Boolean)
+print(var1, id(var1), type(var1))
+print(var2, id(var2), type(var2))
+print(var3, id(var3), type(var3))
+print(var4, id(var4), type(var4))
